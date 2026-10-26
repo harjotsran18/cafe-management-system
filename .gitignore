@@ -1,0 +1,14 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Build artifacts
+*.a
+*.lib
+*.dll
+
+# OS files
+.DS_Store
+Thumbs.db
